@@ -68,3 +68,10 @@ margin-top:20px;
 .hidden {
   display: none;
 }
+
+
+.home {
+    background-color: Pink;
+    border: 2px #272323 solid;
+    font-size:20px;
+}
