@@ -129,7 +129,7 @@ text-decoration:none;
 }
 
 .grid-container {
-  margin-top:150px;
+  margin-top:10px;
   display: grid;
   grid-template-columns: auto auto auto;
   gap: 10px;
