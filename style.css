@@ -113,7 +113,7 @@ text-decoration:none;
 
 .grid-item {
   border: 1px solid rgba(0, 0, 0, 0.8);
-  border-radius:3px;
+  border-radius:7px;
   padding: 20px;
   font-size: 30px;
   text-align: center;
