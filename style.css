@@ -44,11 +44,10 @@ margin-top:20px;
 }
 
 .buttonsPictures {
-margin-top:20px;
+  margin-top:20px;
   display: flex;
   position:fixed;
   flex-wrap: wrap;
-  align-items: center;
   justify-content: center;
   gap: 1rem;
 }
@@ -114,23 +113,6 @@ a
 text-decoration:none;
 }
 
-.flex-container {
-  display: grid;
-  flex-direction: row;
-  font-size: 30px;
-  text-align: center;
-  align-content: stretch;
-}
-
-.flex-item-left {
-  padding: 10px;
-  flex: 50%;
-}
-
-.flex-item-right {
-  padding: 10px;
-  flex: 50%;
-}
 
 .grid-item {
   border: 1px solid rgba(0, 0, 0, 0.8);
