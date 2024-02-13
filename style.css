@@ -130,7 +130,7 @@ text-decoration:none;
 }
 
 .grid-container {
-  margin-top:50px;
+  margin-top:150px;
   display: grid;
   grid-template-columns: auto auto auto;
   gap: 10px;
