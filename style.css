@@ -79,7 +79,16 @@ margin-top:20px;
   
 }
 
-.home a {
+.home2 {
+    background-color: Pink;
+    border: 2px #272323 solid;
+    font-size:20px;
+    margin-bottom:25px;
+  text-padding:5px;
+  
+}
+
+.home a,home2 a {
   text-decoration:none;
 }
 
