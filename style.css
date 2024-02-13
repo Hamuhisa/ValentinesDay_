@@ -79,6 +79,14 @@ margin-top:20px;
   
 }
 
+.home a {
+  text-decoration:none;
+}
+
+.title a {
+  text-decoration:none;
+}
+
 .movie {
   margin-top:30px;
 }
