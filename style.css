@@ -115,7 +115,7 @@ text-decoration:none;
 }
 
 .flex-container {
-  display: flex;
+  display: grid;
   flex-direction: row;
   font-size: 30px;
   text-align: center;
