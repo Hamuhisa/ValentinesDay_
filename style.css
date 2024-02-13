@@ -43,6 +43,16 @@ margin-top:20px;
   gap: 1rem;
 }
 
+.buttonsPictures {
+margin-top:20px;
+  display: flex;
+  position:fixed;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
+
 .btn {
   padding: 1.5rem 2.5rem;
   border: none;
